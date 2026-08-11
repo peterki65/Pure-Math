@@ -1,12 +1,29 @@
-# Pure Math — V1
-# Förklaringar till begrepp och symboler
-## GitHub/VS Code-kompatibel v3
+# Pure Math
+# Förklaringar TOTAL — begrepp, symboler och notation
+## Kumulativ referensfil
 
-Denna fil hör till:
+Denna fil är den **permanenta kumulativa förklaringsfilen** för hela Pure Math-spåret.
 
-**V1 — Algebraiska uttryck och formler**
+Den börjar med innehållet från **Matematik nivå 1c, V1 — Algebraiska uttryck och formler** och byggs därefter vidare genom:
 
-Regel: ett matematiskt begrepp eller en symbol som används i V1 ska kunna hittas här.
+- svensk gymnasiematematik,
+- svensk universitetsmatematik,
+- avancerad/forskarförberedande matematik,
+- MIT Course 18,
+- graduate mathematics och research-level notation.
+
+## Kumulativ regel
+
+1. Tidigare begrepp och symboler tas inte bort.
+2. Nya begrepp, symboler, notationer, satser och viktiga felmönster läggs till.
+3. En tidigare definition får förtydligas eller fördjupas när senare matematik kräver större stringens.
+4. Om ett begrepp får en striktare betydelse senare ska grundförklaringen behållas och kompletteras med den formella versionen.
+5. GitHub/VS Code-standarden är permanent:
+   - inline-matematik: `$...$`
+   - blockmatematik: `$$...$$`
+6. LaTeX-kommandon får endast förekomma inne i matematikläge.
+7. Om ett begrepp eller en symbol används i kursmaterial men saknas här är det ett materialfel som ska korrigeras.
+
 
 > **Markdown-standard:** Inline-matematik använder `$...$`; blockmatematik använder `$$...$$`. Detta är kursens standard för GitHub och VS Code Markdown Preview.
 
