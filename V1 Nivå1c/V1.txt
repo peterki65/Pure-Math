@@ -1,0 +1,56 @@
+Räkna utan hjälpmedel.
+
+    7 + 3 * 4 = 14
+    5 ( 2 + 3 ) = 25
+    − 4 + 9 = 5
+    1/2 + 1/4 = 3/4
+    3^2 = 9
+    ( − 3 ) 2=-6
+    18 / 6=3
+    2 ( 5 − 8 )=-6
+
+Syftet är inte betyg. Fel här markeras som reparationsnoder.
+
+A. Klassificera
+
+Ange numeriskt eller algebraiskt.
+
+    5 + 8 = numeriskt
+    4 x + 7 = algebraiskt
+    3 ( 2 + 5 ) = numeriskt
+    2 a^2 − 1 ? algebraiskt
+    9 / 3 + 4 = numeriskt
+    7 t = algebraiskt
+
+B. Identifiera delar
+
+För varje uttryck: ange termer, variabler, koefficienter och konstantterm.
+
+    3 x + 8: 
+    7 y − 4
+    − 5 a + 2
+    2 x 2 + 6 x − 1
+    − z + 9
+
+C. Beräkna värde
+
+    3 x + 5 för x = 4
+    2 a 2 − 3 för a = 5
+    4 − 2 t för t = − 3
+    x 2 + x + 1 för x = − 2
+
+D. Förklara
+
+    Varför är 3 x + 5 inte en ekvation?
+    Vad är skillnaden mellan en term och en faktor?
+    Vad är koefficienten i − x ?
+
+18:50–19:00 — Micro-gate
+
+Utan anteckningar:
+
+    Definiera variabel. : x
+    Definiera koefficient. 3
+    Ange termerna i 5 x 2 − 2 x + 9 .
+    Beräkna 2 x^2 + 1 för x = 3 . = 19
+	
