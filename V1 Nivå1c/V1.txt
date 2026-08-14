@@ -54,3 +54,97 @@ Utan anteckningar:
     Ange termerna i 5 x 2 − 2 x + 9 .
     Beräkna 2 x^2 + 1 för x = 3 . = 19
 	
+TISDAG 2026-08-11
+
+18:25–18:50 — Praktik
+
+Förenkla.
+
+    3 x + 8 x
+    9 a − 4 a
+    2 x + 5 + 4 x + 7
+    8 y − 3 − 2 y + 10
+    5 a^2 + 2 a^2
+    7 x^2 + 3 x − 2 x^2 + x
+    4 t^2 − 5 t + 2 + 3 t^2 + 2 t − 8
+    − 3 x + 5 + 8 x − 12
+    x + x + x + x
+    2 a^2 + a + 3 a^2 − 4^a + 5
+
+Avgör rätt/fel och motivera:
+
+    2 x + 3 x = 5 x
+    2 x + 3 x^2 = 5 x^3
+    a + a = 2 a
+    a ⋅ a = 2 a
+    a ⋅ a = a 2
+    7 − 3 = 3 − 7
+
+Facit
+
+1 11 x
+2 5 a
+3 6 x + 12
+4 6 y + 7
+5 7 a 2
+6 5 x 2 + 4 x
+7 7 t 2 − 3 t − 6
+8 5 x − 7
+9 4 x
+10 5 a 2 − 3 a + 5
+11 rätt
+12 fel
+13 rätt
+14 fel
+15 rätt
+16 fel
+
+ONSDAG
+
+1. 3(x + 5) = 3x + 15
+2. 4(2x − 3) = 8x - 12
+3. −2(x + 7) = -2x -14
+4. −5(3x − 2) = -15x + 10
+5. 2x(x + 4) = 2x^2 + 8x
+6. 3a(2a − 5) = 6a^2-15a
+7. −4x(2x + 3) = -8x^2 - 12x
+8. 2x^2(3x − 1) = 6x^3 - 2x^2
+9. (x + 1)(x + 4) = x^2 +4x + x + 4 = x^2 + 5x + 4
+10. (x + 3)(x − 2) = x^2 -  2x + 3x - 6 = x^2 + x - 6
+11. (2x + 5)(x + 1) = 2x^2 + 2x + 5x + 5 = 2x^2 + 7x + 5
+12. (3x − 2)(2x + 4) = 6x^2 + 12x  -  4x - 8 = 6x^2 + 8x -8
+
+Felsök:
+13. 4(x + 3) = 4x + 3 ska vara 4x + 12
+14. −2(x − 5) = −2x − 10 ska vara -2x + 10
+15. 3x(2x + 1) = 6x + 3x ska vara 6x^2 + 3x
+16. (x + 2)(x + 3) = x^2 + 6 ska vara x^2 + 3x + 2x + 6 = x^2 + 5x + 6
+
+FREDAG
+
+1.15.1 17:00–17:10 — Retrieval
+Utveckla:
+1. 5(x + 2) = 5x + 10
+2. −2x(3x − 4) = -6x^2 + 8x
+3. (x + 2)(x + 1) = x^2 + x + 2x + 2 = x^2 + 3x + 2
+
+1.16.2 18:25–18:50 — Praktik
+Faktorisera så långt som möjligt.
+1. 4x + 8 = 4(x +2)
+2. 6a + 18 = 6(a + 3)
+3. 10x^2 + 15x = 5x(2x + 3)
+4. 12y^2 − 8y = 4y(3y - 2)
+5. 21a^3 + 14a^2 = 7a^2(3a + 2)
+6. 9x^2 − 27x = 9x(x + 3)
+7. 5x^3 + 10x^2 + 15x = 5x(x^2 + 2x  + 3)
+8. −8x + 12 = -4(x - 3)
+9. x^2 + 7x = x(x + 7)
+10. 3a^2 − 12a = 3a(a + 4)
+Kontrollera genom att multiplicera tillbaka.
+Felsök:
+11. 6x + 12 = 6(x + 12) fel
+12. 8x^2 + 4x = 4(2x^2 + x) ska vara 4x(2x + 1)
+13. 8x^2 + 4x = 4x(2x + 1) ska vara 
+12. 8x^2 + 4x = 4(2x^2 + x) ska vara 
+14. (x + 3)/x = 3 fel
+
